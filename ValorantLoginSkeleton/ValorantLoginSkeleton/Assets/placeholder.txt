@@ -1,1 +1,0 @@
-Place exported images/fonts from your Figma prototype here (e.g. background.jpg, valorant-font.ttf).
